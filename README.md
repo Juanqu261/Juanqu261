@@ -2,9 +2,9 @@
 
 I love building insights from interesting data, while always being a student.
 
-- **Always learning:** I'm like to improve my skills and love tackling new challenges. Like learning a new tool.
-- **Data Analysis Enthusiast:** Python | Pandas | Jupyter | Tableau | Matplotlib | Scikit-Learn
-- **Web Development:** Django | HTML | CSS | JavaScript
+- **Always learning:** I like to improve my skills and love tackling new challenges. Like learning a new tool.
+- **Data Analysis Enthusiast:**
+- **Web Development:**
 
 ## **My Tech Stack**
 
@@ -40,12 +40,12 @@ Here are the tools and technologies I frequently use:
 ## **My GitHub Stats**
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juanqu261&show_icons=true&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanqu261&layout=compact&theme=radical"/>
 </div>
 
 ---
 
 ## **How to Reach Me**
-- [https://www.linkedin.com/in/juan-fernando-quintero-perez-9097b7279/](LinkedIn)
+- [LinkedIn](https://www.linkedin.com/in/juan-fernando-quintero-perez-9097b7279/)
 - **Email**: jfquintero261@gmail.com
