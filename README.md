@@ -3,8 +3,8 @@
 I love building insights from interesting data, while always being a student.
 
 - **Always learning:** I like to improve my skills and love tackling new challenges. Like learning a new tool.
-- **Data Analysis Enthusiast:**
-- **Web Development:**
+- **Data Analysis Enthusiast**
+- **Web Development**
 
 ## **My Tech Stack**
 
