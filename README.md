@@ -37,12 +37,8 @@ Here are the tools and technologies I frequently use:
 
 ---
 
-## **My GitHub Stats**
-
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juanqu261&show_icons=true&theme=radical"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanqu261&layout=compact&theme=radical"/>
-</div>
+## **My Projects**
+[Portfolio](https://juanqu261.github.io/portfolio/)
 
 ---
 
